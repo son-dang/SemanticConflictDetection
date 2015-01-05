@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/cdi-16.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/com.mysql.jdbc_5.1.5.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/commons-io-2.4-javadoc.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/featureexprlib_2.10-0.3.4.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/javabdd-1.0b2.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/javaee-16.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/javamail-141.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/junit.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/org.sat4j.core.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/resin.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/scala-library-2.10.0.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
