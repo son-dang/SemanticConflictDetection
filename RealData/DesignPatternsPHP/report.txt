@@ -1,0 +1,7 @@
+__ExpectOutputString__(Hello World) at file E:\Project\UndergraduateThesis\SemanticConflictDetection\realData\DesignPatternsPHP\result\Behavioral\MediatorModified\Tests\MediatorTest.php line 16 is false when !B2 & !B3 | B2 & B3
+Assert value ($expected == $firstElement) in E:\Project\UndergraduateThesis\SemanticConflictDetection\realData\DesignPatternsPHP\result\Behavioral\Strategy\Tests\StrategyTest.php at line 31 is false when True
+Assert value ($expected == $firstElement) in E:\Project\UndergraduateThesis\SemanticConflictDetection\realData\DesignPatternsPHP\result\Behavioral\Strategy\Tests\StrategyTest.php at line 31 is false when True
+__ExpectOutputRegex__(#Las Vegas#) at file E:\Project\UndergraduateThesis\SemanticConflictDetection\realData\DesignPatternsPHP\result\Behavioral\TemplateMethod\Tests\JourneyTest.php line 19 is false when True
+__ExpectOutputString__(Role: User Dominik) at file E:\Project\UndergraduateThesis\SemanticConflictDetection\realData\DesignPatternsPHP\result\Behavioral\Visitor\Tests\VisitorTest.php line 19 is false when True
+__ExpectOutputString__(Role: Group: Administrators) at file E:\Project\UndergraduateThesis\SemanticConflictDetection\realData\DesignPatternsPHP\result\Behavioral\Visitor\Tests\VisitorTest.php line 19 is false when True
+Assert value ($existing == $user) in E:\Project\UndergraduateThesis\SemanticConflictDetection\realData\DesignPatternsPHP\result\Structural\DataMapper\Tests\DataMapperTest.php at line 24 is false when True
